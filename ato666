@@ -1,0 +1,8 @@
+game:GetService("StarterGui"):SetCore("SendNotification",{
+                Title = "2.18更新公告";
+                Text ="安脚本进行大更新以及优化";
+                Icon = "rbxassetid://125659062095965";
+                Duration = 2.5
+})                
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Anscripterato/atoscript/refs/heads/main/QQqun1025412071"))()
+                
