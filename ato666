@@ -1,6 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
-                Title = "2.18更新公告";
-                Text ="安脚本进行大更新以及优化";
+                Title = "2.20更新公告";
+                Text ="新增忍者传奇";
                 Icon = "rbxassetid://125659062095965";
                 Duration = 2.5
 })                
